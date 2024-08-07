@@ -1,0 +1,36 @@
+header{
+    background-color: bisque;
+}
+section h2{
+    padding-top: 100px;
+}
+.services{
+    background-color: bisque;
+}
+
+.services content{
+    text-align: justify;
+
+}
+
+section services{
+    align-content: center;
+    border: yellowgreen;
+    justify-items: center; 
+}
+
+.section1 img{
+    float: right;
+    margin-top: 150px;
+}
+
+.connect{
+    background-color: rgb(236, 211, 27);
+    padding-left: 100px;
+}
+.cards{
+    height: 200px;
+    width: 200px;
+    display: table-column;
+}
+
